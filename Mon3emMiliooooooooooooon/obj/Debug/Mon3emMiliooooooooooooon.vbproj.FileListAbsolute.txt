@@ -1,0 +1,65 @@
+C:\Users\Physics\AppData\Local\Temporary Projects\Mon3emMiliooooooooooooon\bin\Debug\Mon3emMiliooooooooooooon.exe
+C:\Users\Physics\AppData\Local\Temporary Projects\Mon3emMiliooooooooooooon\bin\Debug\Mon3emMiliooooooooooooon.pdb
+C:\Users\Physics\AppData\Local\Temporary Projects\Mon3emMiliooooooooooooon\bin\Debug\Mon3emMiliooooooooooooon.xml
+C:\Users\Physics\AppData\Local\Temporary Projects\Mon3emMiliooooooooooooon\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Physics\AppData\Local\Temporary Projects\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.Form1.resources
+C:\Users\Physics\AppData\Local\Temporary Projects\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.Resources.resources
+C:\Users\Physics\AppData\Local\Temporary Projects\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.vbproj.GenerateResource.Cache
+C:\Users\Physics\AppData\Local\Temporary Projects\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.exe
+C:\Users\Physics\AppData\Local\Temporary Projects\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.xml
+C:\Users\Physics\AppData\Local\Temporary Projects\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.pdb
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.exe
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.xml
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.pdb
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\bin\Debug\Mon3emMiliooooooooooooon.exe
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\bin\Debug\Mon3emMiliooooooooooooon.pdb
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\bin\Debug\Mon3emMiliooooooooooooon.xml
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\ResolveAssemblyReference.cache
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.Resources.resources
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.vbproj.GenerateResource.Cache
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.Screens.resources
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.FormAsk.resources
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.FormCall.resources
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.XML.resources
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.ListForm.resources
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.LoadForm.resources
+D:\GAMES\Mon3em\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.MainForm.resources
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.exe
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.xml
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.pdb
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\bin\Debug\Mon3emMiliooooooooooooon.exe
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\bin\Debug\Mon3emMiliooooooooooooon.pdb
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\bin\Debug\Mon3emMiliooooooooooooon.xml
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\ResolveAssemblyReference.cache
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.ListForm.resources
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.LoadForm.resources
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.MainForm.resources
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.FormAsk.resources
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.FormCall.resources
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.Resources.resources
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.Screens.resources
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.XML.resources
+H:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.vbproj.GenerateResource.Cache
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\ResolveAssemblyReference.cache
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Interop.WMPLib.dll
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\AxInterop.WMPLib.dll
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.vbproj.ResolveComReference.cache
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.Entry.resources
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.ListForm.resources
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.LoadForm.resources
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.MainForm.resources
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.FormAsk.resources
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.FormCall.resources
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.Screens.resources
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.Video.resources
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.XML.resources
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.vbproj.GenerateResource.Cache
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\bin\Debug\Mon3emMiliooooooooooooon.exe
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\bin\Debug\Mon3emMiliooooooooooooon.pdb
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\bin\Debug\Mon3emMiliooooooooooooon.xml
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\bin\Debug\Interop.WMPLib.dll
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\bin\Debug\AxInterop.WMPLib.dll
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.Resources.resources
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.exe
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.xml
+F:\Mon3emMiliooooooooooooon\Mon3emMiliooooooooooooon\obj\Debug\Mon3emMiliooooooooooooon.pdb
